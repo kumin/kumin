@@ -28,8 +28,8 @@
 
 ## 🎞 GitHub Stats
 <p>
- <img width="430em" src="https://github-readme-stats.vercel.app/api?username=kumin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumin&layout=compact&langs_count=10&theme=dracula&hide=css,html&cache_seconds=86400"/>
+ <img width="410em" src="https://github-readme-stats.vercel.app/api?username=kumin&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img width="410em" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumin&layout=compact&langs_count=10&theme=dracula&hide=css,html&cache_seconds=86400"/>
 </p>
   
 ## 🏆 GitHub Trophies
