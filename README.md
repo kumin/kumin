@@ -21,7 +21,7 @@
  <image src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif" align="right" width=350px> 
    
 - 🎒 I'm a software engineer at TIKI
-- 📗 I’m currently reading a book which's name is The old man and sea 🌊 
+- 📗 I’m currently reading a book which's name is The old man and the sea 🌊 
 - 💬 Ask me about anything that you want
 - 🤪 Blog: [Just For Fun](https://neralnetwork.wordpress.com/)
 - 🖍 My hobbies: 🎮 ⚽️ 🏃🏻‍♂️
