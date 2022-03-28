@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/kumin" target="blank"><img align="left" src="icons/linkedin.svg" alt="kumin" width="22px" /></a>
 <a href="https://www.facebook.com/" target="blank"><img align="left" src="icons/facebook.svg" alt="kumin" width="22px" /></a>
 <a href="https://www.instagram.com/hoang_van_minh_nlp" target="blank"><img align="left" src="icons/instagram.svg" alt="kumin" width="22px" /></a>
-<a href="https://leetcode.com/user6362z" target="blank"><img align="left" src="icons/leetcode.svg" alt="kumin" width="22px" /></a>
+<a href="https://leetcode.com/kumin242" target="blank"><img align="left" src="icons/leetcode.svg" alt="kumin" width="22px" /></a>
  <br/>
  <br/>
      
