@@ -1,4 +1,4 @@
-## Hi there !<image src="https://media.giphy.com/media/inDjVk0EySF7W/giphy.gif" width=50px> I'm Kumin <image src="https://media.giphy.com/media/6SMPIQVz4NHk6vLU29/giphy.gif" width=50px>
+## Hi there !<image src="https://media.giphy.com/media/inDjVk0EySF7W/giphy.gif" height=50px> I'm Kumin <image src="https://media.giphy.com/media/6SMPIQVz4NHk6vLU29/giphy.gif" height=50px>
  <p align="center">
     <img src="https://user-images.githubusercontent.com/75965764/133928736-c7796e42-6cc4-4569-a0e1-eaef593d2a75.gif" height=100px><!--
   --><img src="https://user-images.githubusercontent.com/75965764/133928736-c7796e42-6cc4-4569-a0e1-eaef593d2a75.gif" height=100px><!--
@@ -18,10 +18,10 @@
  <br/>
  <br/>
      
- <image src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif" align="right" width=350px> 
+ <image src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif" align="right" height=200px> 
    
 - 🎒 I'm a software engineer at TIKI
-- 📗 I’m currently reading a book which's name is The old man and the sea 🌊 
+- 📗 I’m currently reading a book which's name is Designing data-intensive application 🌊 
 - 💬 Ask me about anything that you want
 - 🤪 Blog: [Just For Fun](https://neralnetwork.wordpress.com/)
 - 🖍 My hobbies: 🎮 ⚽️ 🏃🏻‍♂️
