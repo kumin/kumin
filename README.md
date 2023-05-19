@@ -8,8 +8,8 @@
 </p>
       
 ## 👨‍💻 About me
-<img src="https://visitor-badge.glitch.me/badge?page_id=kumin&left_color=blue&right_color=black" alt="visitors">
-
+![](https://komarev.com/ghpvc/?username=kumin&color=blueviolet)
+ 
 <a href="https://twitter.com" target="blank"><img align="left" src="icons/twitter.svg" alt="kumin" width="22px" /></a>
 <a href="https://linkedin.com/in/kumin" target="blank"><img align="left" src="icons/linkedin.svg" alt="kumin" width="22px" /></a>
 <a href="https://www.facebook.com/" target="blank"><img align="left" src="icons/facebook.svg" alt="kumin" width="22px" /></a>
