@@ -20,7 +20,7 @@
      
  <image src="https://media.giphy.com/media/gfld3S4CsRXRZjqEj3/giphy.gif" align="right" height=200px> 
    
-- 🎒 I'm a software engineer at TIKI
+- 🎒 I'm a software engineer at your heart
 - 📗 I’m currently reading a book which's name is Designing data-intensive application 🌊 
 - 💬 Ask me about anything that you want
 - 🤪 Blog: [Just For Fun](https://neralnetwork.wordpress.com/)
